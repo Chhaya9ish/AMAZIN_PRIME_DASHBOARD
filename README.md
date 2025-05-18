@@ -1,4 +1,4 @@
-# AMAZIN_PRIME_DASHBOARD
+# AMAZON_PRIME_DASHBOARD
 **Description**
 This project contains a dashboard that visualizes the data of titles available on Amazon Prime. The dashboard allows users to explore various attributes of Amazon Prime video titles, such as release dates, genres, and availability.
 
